@@ -1,0 +1,14 @@
+ls                      --> Lista archivos en la carpeta que estamos
+cd ..                   --> Carpeta previa
+cd ruta-a-la-carpeta    --> Acceder a carpeta descrita
+mkdir algo              --> Crea la carpeta 'algo'
+touch archivo.txt       --> Crea el file 'archivo.txt'. 
+rm archivo.txt          --> Elimina el file 'archivo.txt'
+mv nombre.txt otro.txt  --> Mueve el contenido de 'nombre.txt' a 'otro.txt'
+
+salir de vim            --> esc + :wq + enter
+cat file.txt            --> lee el archivo indicado
+
+borrar carpeta vacia    --> rm -r carpeta
+borrar carpeta no vacia --> rm -r carpeta
+rm -rf directorio       --> borrar carpeta con archivos
